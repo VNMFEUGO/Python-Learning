@@ -11,3 +11,8 @@ l1 = [1, 2, 46, 56,7,86,33]
 #l1.pop(3) 
 l1.remove(46)
 print(l1)
+
+a = [1,3,4,5,6]
+b = [2,3,4,5,3]
+name = 'ashutosh'
+print(a.append(b))
